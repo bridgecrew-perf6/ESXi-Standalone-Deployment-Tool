@@ -16,6 +16,6 @@ $OVFRoot = ""
 $OVFTool = ""
 ```
 
-$VMServer is the IP or Hostname of the ESXi host
-$OVFRoot is the path to where all OVFs are stored
-$OVFTool is the installation path of the OVFTool
+- $VMServer is the IP or Hostname of the ESXi host
+- $OVFRoot is the path to where all OVFs are stored
+- $OVFTool is the installation path of the OVFTool
